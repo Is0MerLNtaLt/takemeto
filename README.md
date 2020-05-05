@@ -15,7 +15,7 @@ Install takemeto:
 pip3 install takemto
 ```
 
-> TakeMeTo requires Python version > 3.7. Binaries for easier installation on all operating system has been planned.
+> TakeMeTo requires Python version > 3.7. Binaries for easier installation on all operating systems has been planned.
 
 Add a destination / bookmark or whatever you would like to call it. I prefer to call it a destination:
 
